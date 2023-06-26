@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+}
+h1{
+    font: xx-large;
+    text-align: center;
+}
+#Botao{
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    width: 100px;
+    height: 50px;
+}
+#Texto{
+    width: 50%;
+    height: 30px;
+    text-align: left;
+}
